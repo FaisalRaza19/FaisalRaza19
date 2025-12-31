@@ -9,7 +9,6 @@ I am a Full Stack Engineer from Lahore, specializing in building **scalable micr
 - 💬 Ask me about **Next.js, Docker, Kubernetes, and Event-Driven Architecture**.
 
 ---
-
 ### 🛠 Tech Stack
 
 **Frontend:**
@@ -24,4 +23,7 @@ I am a Full Stack Engineer from Lahore, specializing in building **scalable micr
 ---
 
 ### 📈 GitHub Stats
-![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalRaza19&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaisalRaza19&show_icons=true&theme=radical" alt="Faisal's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalRaza19&layout=compact&theme=radical" alt="Top Languages" />
+</p>
